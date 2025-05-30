@@ -104,3 +104,5 @@ $RECYCLE.BIN/
 
 # Streamlit
 .streamlit/config.toml
+
+*.ipynb
