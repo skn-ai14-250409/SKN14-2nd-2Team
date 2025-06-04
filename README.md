@@ -118,7 +118,20 @@
 
 ### 5. 데이터 전처리
 
-(준비중)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="./Docs/전처리(Age_B).png" alt="Age_B" style="width: 45%;">
+  <img src="./Docs/전처리(Age_F).png" alt="Age_F" style="width: 45%;">
+</div>
+
+Age값을 로그스케일링해서 왜도(분포의 비대칭성)을 줄임.
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="./Docs/전처리(Balance_B).png" alt="Balance_B" style="width: 45%;">
+  <img src="./Docs/전처리(Balance_F).png" alt="Balance_F" style="width: 45%;">
+</div>
+
+잔고(Balance)는 0의 빈도가 매우 높은 비대칭 분포를 보여<br>
+로그스케일링을 통해 양의 값을 완화하고, 0값은 그대로 유지함으로써 분포의 왜도를 줄였음.
 
 ---
 ### 데이터 인사이트 요약
