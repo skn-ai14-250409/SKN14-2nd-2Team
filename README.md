@@ -61,7 +61,7 @@
 
 ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-
+---
 ## 탐색적 데이터 분석(EDA)
 
 ### 1. 데이터 기본 정보
@@ -82,7 +82,6 @@
 | IsActiveMember | 활성회원 여부                       |
 | EstimatedSalary| 추정 연봉                           |
 | Exited         | 이탈여부(1=이탈, 0=잔류)            |
----
 
 ### 2. 기술 통계요약
 
@@ -115,6 +114,7 @@
 
 (준비중)
 
+---
 ### 데이터 인사이트 요약
 
 - **전체 이탈률:** 20.4%
